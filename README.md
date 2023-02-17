@@ -1,3 +1,5 @@
+[colab](Anomaly detection-RIAD-PyTorch.ipynb)
+
 <p align="left">
   <img src=assets/logo.svg width="70%" />
 </p>
