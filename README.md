@@ -1,6 +1,7 @@
 
-
-[colab](Anomaly detection-RIAD-PyTorch.ipynb)
+<p align="left">
+  <a href="Anomaly detection-RIAD-PyTorch.ipynb"> colab
+</p>
 
 <p align="left">
   <img src=assets/logo.svg width="70%" />
